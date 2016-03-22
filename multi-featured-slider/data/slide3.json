@@ -1,0 +1,17 @@
+{
+  "content":"<h1>Next Service In queue</h1><p>lorem ipsum copy in various charsets and languages for layouts.lorem ipsum copy in various charsets and languages for layouts.lorem ipsum copy in various charsets and languages for layouts.</p>",
+  "subblocks":{
+      "tab1":{
+        "label":"Tab 1",
+        "data":"<h1>Slide1</h2>"
+      },
+      "tab2":{
+        "label":"Tab 2",
+        "data":"<h1>Slide2</h2>"
+      },
+      "tab3":{
+        "label":"Tab 3",
+        "data":"<h1>Slide3</h2>"
+      }
+    }
+  }

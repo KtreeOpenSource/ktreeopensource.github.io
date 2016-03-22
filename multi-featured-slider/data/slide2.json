@@ -1,0 +1,17 @@
+{
+  "content":"<h1>Next Service In queue</h1><p>lorem ipsum copy in various charsets and languages for layouts.lorem ipsum copy in various charsets and languages for layouts.lorem ipsum copy in various charsets and languages for layouts.</p>",
+  "subblocks":{
+      "as1":{
+        "label":"AS 1",
+        "data":"<h1>AS1 asdasd</h2>"
+      },
+      "asdsa3":{
+        "label":"As 3",
+        "data":"<h1>As3 asdadsd</h2>"
+      },
+      "sdsd6":{
+        "label":"As 6",
+        "data":"<h1>As 25</h2>"
+      }
+    }
+  }

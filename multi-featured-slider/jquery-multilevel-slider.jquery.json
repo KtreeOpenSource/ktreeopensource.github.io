@@ -1,0 +1,44 @@
+{
+	"name": "jquery-multilevel-slider",
+	"version": "1.0.0",
+	"title":"KTree Multi Featured Slider Jquery Plugin.",
+	"description": "This slider will give ability to present more information in your slider without effecting performance as each slide will load data from ajax request, each and everything element is configurable. Using this plugin we can have tabs inside slider where we can accommodate more content.",
+	"homepage": "http://KTree.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KtreeOpenSource/KTree-Multi-Featured-Slider-jquery-Plugin.git"
+	},
+	"authors": [
+		{
+			"name": "KTree Computer Solutions India (P) Ltd.",
+			"email": "info@ktree.com",
+			"homepage": "http://www.KTree.com"
+		}
+	],
+	"licenses":
+  [
+    {
+      "type": "MIT",
+    }
+  ],
+	"dependencies":
+  {
+    "jquery": ">1.7"
+  }
+	  "engines": {},
+	"main": "KTSlider.js",
+	"keywords": [
+		"slider with tabs",
+		"feature content slider",
+		"slider",
+		"ajax slider",
+		"lightweight slider",
+		"Slider With Sections",
+		"Section Slider",
+		"Multi Slider",
+		"nested slidr",
+	],
+	"license": [
+		"MIT"
+	]
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<head>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="KTSlider.css" />
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+<script type="text/javascript" src="KTSlider.js">
+
+
+
+</script>
+</head>
+<body>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+	$('#slider').KTSlider({
+		bg:'images/default.jpg',
+		interval:2000,
+		autorotate:true,
+		slideUrl:{
+			'position1':{
+				'name':'Slide One',
+				'url':'data/slide1.json'
+			},
+			'position2':{
+				'name':'Slide Two',
+				'url':'data/slide2.json'
+			},
+			'position3':{
+					'name':'Slide Three',
+					'url':'data/slide3.json'
+			}
+		}
+	})
+});
+
+</script>
+
+<div id="slider" class="">
+
+</div>
+
+</body>
+</html>
